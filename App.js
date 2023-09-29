@@ -61,4 +61,6 @@ submit.onclick = () => {
     // }
 }
 
-const q = 1
+const q = 1;
+
+const w = 2;
