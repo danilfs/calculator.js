@@ -60,3 +60,5 @@ submit.onclick = () => {
     //     printResult(sum)
     // }
 }
+
+const q = 1
