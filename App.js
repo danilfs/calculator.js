@@ -26,6 +26,7 @@ const computeNumbersWithAction = (imp1 , imp2, actionSymbol) => {
     return actionSymbol == '+' ? num1 + num2 : num1 - num2
 }
 
+
 minusBtn.onclick = () => {
     action = '-'
 }
